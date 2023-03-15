@@ -1,0 +1,77 @@
+ Darslar:
+	1.Sonlar haqida tushuncha-Natural sonlar:
+		- Natural sonlar 
+		- Tub va murakkab son
+		- Bo`linish belgilari
+		- Tub ko`paytuvchilarga ajratish
+		- bo`luvchilar sonini aniqlash
+		- EKUB | EKUK
+ 	2.Ratsional sonlar - kasrlar:
+ 		- Kasr | Maxraj | Surat
+ 		- Oddiy kasrlar | O'nli kasrlar | Aralash kasrlar
+ 		- Kasrlar ustida arifmetik amallar
+ 		- Cheksiz davriy o'nli kasrlar
+	3.Butun sonlar - musbat va manfiy sonlar:
+		- Musbat va manfiy sonlar
+		- Arifmetik amallar
+		- Qavslarni ochish qoidalari
+	4.Exam: 
+		- yozma shaklda
+		- 3 misol va 2 masala 
+		- 20 minut vaqt
+	
+	5.Algebraik ifodalar - Birhad:
+		- o'zgaruvchi va o'zgarmas tushunchasi
+		- daraja va unin xossalari
+		- birhad
+	6.Ko'phad:
+		- ko'phadlar
+		- algebraik ifodalar ustida arifmetik amallar
+		- ko'phadlarni ko'paytuvchilarga ajratish
+		- bir o'zgaruvchili chiziqli tenglama
+	7.Tengsizlik 
+	
+	8.Exam:
+		- yozma shaklda
+		- 3 misol va 2 masala 
+		- 20 minut vaqt
+		
+	9.Arifmetik Ildiz
+	10.Masalalarni tenglamalar yordamida yechish
+	11.Logarifm
+	12.Exam
+	
+	13.Geometriya - Planimetriya:
+		- ta'riflanmaydigan tushunchalar, tarif, aksioma va teorema tushunchalari.
+		- burchar, vertikal va qo'shni burchaklar
+		- sodda geometrik shakllar | uchburchak | to'rtburchak va uning xususuiy hollari 
+		- perimetr va yuza
+		 
+	14.Streometriyaga kirish:
+		- Hajm
+		- Uch o'lchamli shakllarning hosil bo'lishi 
+	15.Mantiqiy matematika elementlari:
+		- mantiqiy hisoblar operatorlari
+		- chinlik jadvali
+		- shart, zaruriy va yetarli shartlar
+	16.Exam
+	
+
+	+++Qo'shimcha mavzular:
+		17. To'plamlar:
+			- to'plam tushunchasi | qism to'pam | bo'sh to'plam.
+			- to'plamlar ustida amallar | kesishma va birlashma.
+		18. Dekart koordinatalar tizimi:
+			- koordinatalar tekisligi
+			- o'qlar
+			- masalalarni grafiklar yordamida ychish
+		19. Tenglamalar sistemasi:
+			- 2 chiziqli tenglamalar sistemasi
+			- masalalarni tenglamalar sistemasi yordamida yechish
+			- masalalarni yechishnning nostandart usullari
+			
+		20. Progressiya:
+			- Ketma ketliklar, monoton ketma-ketlik, fibonachchi sonlari
+			- arifmetik progressiya, (9 yoshli Gauss)
+			- geometrik progressiya, (shaxmat yaratilishi tarixi)
+
