@@ -16,9 +16,9 @@
 		- Arifmetik amallar
 		- Qavslarni ochish qoidalari
 	4.Exam: 
-		- yozma shaklda
-		- 3 misol va 2 masala 
-		- 20 minut vaqt
+		- yozma shaklda 
+		- 40 minut vaqt
+		- takrorlash, masalalar yechish.
 	
 	5.Algebraik ifodalar - Birhad:
 		- o'zgaruvchi va o'zgarmas tushunchasi
@@ -29,16 +29,31 @@
 		- algebraik ifodalar ustida arifmetik amallar
 		- ko'phadlarni ko'paytuvchilarga ajratish
 		- bir o'zgaruvchili chiziqli tenglama
-	7.Tengsizlik 
+		
+	7. Mantiqiy matematika elementlari:
+		- sanoq sistemalari: decimal, binary, octal, hexadecimal
+		- mantiqiy hisoblash operatorlari (and, or, not ...)
+		- chinlik jadvali
+		- shart, zaruriy va yetarli shartlar	
+		- teskari va qarama-qarshi mulohazalar 
 	
 	8.Exam:
 		- yozma shaklda
-		- 3 misol va 2 masala 
-		- 20 minut vaqt
+		- 40 minut vaqt
+		- takrorlash, masalalar yechish.
 		
-	9.Arifmetik Ildiz
-	10.Masalalarni tenglamalar yordamida yechish
-	11.Logarifm
+	
+	9. Proporsiya va foizlar:
+		- proporsiya
+		- fozilar turlari: oddiy va murakkab foizlar
+		- bazis va zanjirsimon hisoblash usullari
+	
+	10. Masalalarni tenglamalar yordamida yechish.	
+	
+	10. Irratsional sonlar, arifmetik ildiz.
+	
+	11.Funksiyalar va Logarifm
+	
 	12.Exam
 	
 	13.Geometriya - Planimetriya:
@@ -50,10 +65,7 @@
 	14.Streometriyaga kirish:
 		- Hajm
 		- Uch o'lchamli shakllarning hosil bo'lishi 
-	15.Mantiqiy matematika elementlari:
-		- mantiqiy hisoblar operatorlari
-		- chinlik jadvali
-		- shart, zaruriy va yetarli shartlar
+	15. 
 	16.Exam
 	
 
@@ -75,3 +87,4 @@
 			- arifmetik progressiya, (9 yoshli Gauss)
 			- geometrik progressiya, (shaxmat yaratilishi tarixi)
 
+	
